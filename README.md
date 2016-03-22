@@ -1,4 +1,4 @@
-![Tic Tac Toe](/imgs/banner_noframe.png)
+![Tic Tac Toe](https://cloud.githubusercontent.com/assets/17992804/13963037/1de4df2a-f03a-11e5-873d-1908ce4e02a4.png)
 
 # So...it's Tic Tac Toe.
 
